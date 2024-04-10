@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+.formulario {
+    display: block;
+    margin: 20px 15px;
+    padding: 15px 15px 15px 15px;
+    width: 20%;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    align-items: center;
+    
+    
+    
+
+}
+
+.centeer {
+    display: flex;
+    justify-content: center;
+
+}
+
+.pepito {
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+
+.george {
+    
+    text-decoration: none;
+    width: 8%;
+    background-color: black;
+    margin: 5px 10px;
+    padding: 5px 30px;
+    color: beige;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+    align-items: center;
+    
+
+
+}
+.pache{
+     text-decoration: none;
+     color: blue;
+     padding: 0px 10px;
+     width: 40px;
+
+
+
+}
+.face{
+    text-decoration: none;
+     color: rgb(2, 2, 48);
+     display: flex;
+     justify-content:center;
+ 
+     
+}
+.uno{
+    display: flex;
+    justify-content: center;
+}
+.face{
+    text-decoration: none;
+   
+    
+
+}
+input[type="email"],
+input[type="password"] {
+    width: 80%;
+    padding: auto;
+    margin: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: rgb(230, 238, 235);
+    color: black;
+    align-items: center;
+ }
+.sis{
+    background-color: rgb(64, 71, 205);
+    margin: 5px 10px;
+    padding: 5px 30px;
+    color: beige;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+    align-items: center;
+}
